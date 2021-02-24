@@ -1,0 +1,12 @@
+16:26:31 =>[info]=>first log message!
+16:26:31 =>[info]=>/home/chen/gitHub/Mprpc/example/callee/friendservice.cc:main:45
+16:26:31 =>[info]=>service_name:FriendServiceRpc
+16:26:31 =>[info]=>method_name:GetFriendsList
+16:32:17 =>[info]=>first log message!
+16:32:17 =>[info]=>/home/chen/gitHub/Mprpc/example/callee/friendservice.cc:main:45
+16:32:17 =>[info]=>service_name:FriendServiceRpc
+16:32:17 =>[info]=>method_name:GetFriendsList
+16:39:48 =>[info]=>first log message!
+16:39:48 =>[info]=>/home/chen/gitHub/Mprpc/example/callee/friendservice.cc:main:45
+16:39:48 =>[info]=>service_name:FriendServiceRpc
+16:39:48 =>[info]=>method_name:GetFriendsList
